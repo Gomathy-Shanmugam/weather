@@ -1,0 +1,63 @@
+
+
+
+
+
+
+
+*{
+    margin :0;
+    box-sizing: border-box;
+    font-family:Poppins,sans-serif;
+    text-align: center;
+    /* background-color: rgb(218, 226, 226); */
+    
+    /* background-color: rgb(26, 18, 97);
+     */
+
+}
+.container{
+    background-color: aqua;
+    padding: 50px;
+    border-radius: 10px;
+    margin-top: 100px ;
+    height: 500px;
+    width: 400px;
+    background-image: url("https://pics.craiyon.com/2023-11-16/wHGM0abcSOWVL1p6KEsCZw.webp");
+}
+.heading{
+   color: rgb(1, 1, 90);
+}
+input[type="text"]{
+    margin-top : 8px;
+    height:3rem;
+    width:300px;
+    border-radius: 8px;
+    border: 2px solid rgb(155, 148, 148);
+    outline :none;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+input-focus{
+    background-color: beige;
+    color: blue;
+    border-color: black;
+    outline:0;
+
+
+}
+
+button{
+    background-color: black;
+    height: 3.2rem;
+width: 170px;
+color:whitesmoke;
+font-size: 1.1rem;
+outline:none;
+border-radius: 8px;
+font-weight: 600;
+border: none;
+cursor: pointer;
+
+}
+
